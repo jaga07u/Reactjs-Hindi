@@ -1,0 +1,26 @@
+.box{
+    width: 700px;
+    height: 200px;
+    background-color: red;
+    margin-left: 15%;
+}
+.box input{
+    width: 60%;
+    height: 40px;
+    margin-left: 15%;
+    margin-top: 5%;
+    
+}
+.box select{
+    height: 35px;
+    border: 3px solid black;
+}
+.box button{
+   border: 3px solid black;
+   background-color: aqua;
+   margin-left: 30%;
+   margin-top: 5%;
+}
+.box h1{
+    margin-left: 20%;
+}
